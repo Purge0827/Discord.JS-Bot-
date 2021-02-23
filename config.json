@@ -1,0 +1,6 @@
+{
+"token": "your secret token",
+"prefix": "your secret prefix",
+  "embedColour": "RANDOM",
+  "owners": ["your discord id"]
+}
